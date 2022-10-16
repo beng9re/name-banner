@@ -1,0 +1,1 @@
+insert into banner_name(name) values ('a');
